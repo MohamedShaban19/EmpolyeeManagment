@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\employee-management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\employee-management.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\data\\permissions\\userpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\data\\permissions\\userpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\data\\permissions\\rolepermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\data\\permissions\\rolepermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\data\\empolyees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\data\\empolyees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\controllers\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\controllers\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\controllers\\permissions\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\controllers\\permissions\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\controllers\\empolyees\\empolyeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\controllers\\empolyees\\empolyeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|e:\\project\\empolyee-management\\employee-management-api\\employee-management\\controllers\\auditlog\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47313D01-A7A6-4DBC-8BCE-09D1E1B7875C}|Employee-Management\\Employee-Management.csproj|solutionrelative:employee-management\\controllers\\auditlog\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee-Management.http",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Employee-Management.http",
+              "RelativeDocumentMoniker": "Employee-Management\\Employee-Management.http",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Employee-Management.http",
+              "RelativeToolTip": "Employee-Management\\Employee-Management.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-27T17:37:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPermissionRepository.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Permissions\\UserPermissionRepository.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Data\\Permissions\\UserPermissionRepository.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Permissions\\UserPermissionRepository.cs",
+              "RelativeToolTip": "Employee-Management\\Data\\Permissions\\UserPermissionRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolePermissionRepository.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Permissions\\RolePermissionRepository.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Data\\Permissions\\RolePermissionRepository.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Permissions\\RolePermissionRepository.cs",
+              "RelativeToolTip": "Employee-Management\\Data\\Permissions\\RolePermissionRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Empolyees\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Data\\Empolyees\\EmployeeRepository.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Data\\Empolyees\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee-Management\\Data\\Empolyees\\EmployeeRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Employee-Management\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:34:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Program.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Program.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Program.cs",
+              "RelativeToolTip": "Employee-Management\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:55:21.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\User\\UsersController.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Controllers\\User\\UsersController.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\User\\UsersController.cs",
+              "RelativeToolTip": "Employee-Management\\Controllers\\User\\UsersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Permissions\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Controllers\\Permissions\\PermissionsController.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Permissions\\PermissionsController.cs",
+              "RelativeToolTip": "Employee-Management\\Controllers\\Permissions\\PermissionsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:07.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpolyeesController.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Empolyees\\EmpolyeesController.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Controllers\\Empolyees\\EmpolyeesController.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Empolyees\\EmpolyeesController.cs",
+              "RelativeToolTip": "Employee-Management\\Controllers\\Empolyees\\EmpolyeesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:37:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "Employee-Management\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:36:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\AuditLog\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "Employee-Management\\Controllers\\AuditLog\\AuditLogController.cs",
+              "ToolTip": "E:\\project\\Empolyee-Management\\Employee-Management-APi\\Employee-Management\\Controllers\\AuditLog\\AuditLogController.cs",
+              "RelativeToolTip": "Employee-Management\\Controllers\\AuditLog\\AuditLogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:36:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
